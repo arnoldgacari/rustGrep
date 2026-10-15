@@ -1,0 +1,5 @@
+[2026-10-12 10:00:01] INFO: Server started successfully on port 8080.
+[2026-10-12 10:05:22] WARN: High memory usage detected (85%).
+[2026-10-12 10:10:45] ERROR: Database connection failed: timeout after 30s.
+[2026-10-12 10:11:00] INFO: Retrying database connection...
+[2026-10-12 10:11:05] ERROR: Failed to establish connection. Shutting down worker pool.
